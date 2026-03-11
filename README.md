@@ -22,6 +22,15 @@
 - [Node.js](https://nodejs.org/) (версия 14 или выше)
 - npm (устанавливается вместе с Node.js)
 
+### Запуск
+
+# Режим разработки (с автоматической компиляцией)
+npm run dev
+
+# Или сборка и запуск
+npm run build
+npm start
+
 ### Установка
 
 ```bash
@@ -33,3 +42,6 @@ cd budget-tracker-cli
 
 # Установить зависимости
 npm install
+
+
+
